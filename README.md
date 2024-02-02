@@ -1,7 +1,7 @@
-<img src=https://ibb.co/PDQZxpj alt="header" />
+<a href="https://ibb.co/PDQZxpj"><img src="https://i.ibb.co/GHTv7wp/Header.png" alt="Header" border="0"></a>
 
-<h1 align="center">Hi 👋, I'm Meaghan</h1>
-<h3 align="center">A creative and artistic developer in Northern California</h3>
+<h1>Hi 👋, I'm Meaghan</h1>
+<h3>A creative and artistic developer in Northern California</h3>
 
 - 🔭 I’m currently working on [Retro Relics](https://github.com/meaghansharrard89/retro-relics)
 
