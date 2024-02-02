@@ -1,4 +1,4 @@
-<a href="https://ibb.co/wwLcyVR"><img src="https://i.ibb.co/xfsFhWD/Header.png" alt="Header" border="0"></a>
+[![Header](https://i.ibb.co/xfsFhWD/Header.png)](https://ibb.co/wwLcyVR){: style="border-radius: 10px;"}
 
 <h1>Hi 👋, I'm Meaghan (she/her)</h1>
 <h2>🌞 A creative and artistic developer in Northern California</h2>
