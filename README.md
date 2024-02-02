@@ -1,6 +1,6 @@
 <a href="https://ibb.co/wwLcyVR"><img src="https://i.ibb.co/xfsFhWD/Header.png" alt="Header" border="0" width="100%"></a>
 
-<h1>Hi 👋, I'm Meaghan (she/her)</h1>
+<h1>👋 Hi, I'm Meaghan!</h1>
 <h2>🌞 A creative and artistic developer in Northern California</h2>
 <h3>🎉 About Me</h3>
 <p>I have over 15 years background as a customer support professional, including in the tech field where I developed skills and worked closely with the Engineering team. Working adjacently with people currently in the software engineering field led to me to pursue Flatiron School's Full-Stack Software Engineering program, which I am currently attending.
