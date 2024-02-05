@@ -1,7 +1,7 @@
 <a href="https://ibb.co/wwLcyVR"><img src="https://i.ibb.co/xfsFhWD/Header.png" alt="Header" border="0" width="100%"></a>
 
 <h1>👋 Hi, I'm Meaghan!</h1>
-<h2>🌞 A creative and artistic developer in Northern California</h2>
+<h2>🌞 A creative and artistic developer in northern California</h2>
 <h3>🎉 About Me</h3>
 <p>I have over 15 years background as a customer support professional, including in the tech field where I developed skills and worked closely with the Engineering team. Working adjacently with people currently in the software engineering field led to me to pursue Flatiron School's Full-Stack Software Engineering program, which I am currently attending.
 In addition to customer support, I also have expertise in social media, marketing, and a history as a sign artist at Trader Joe’s, where I designed visually-appealing and eye-catching artwork to help properly market items.</p>
