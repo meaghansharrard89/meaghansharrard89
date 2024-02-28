@@ -3,8 +3,9 @@
 <h1>👋 Hi, I'm Meaghan!</h1>
 <h2>🌞 A creative and artistic developer in northern California</h2>
 <h3>🎉 About Me</h3>
-<p>I have over 15 years background as a customer support professional, including in the tech field where I developed skills and worked closely with the Engineering team. Working adjacently with people currently in the software engineering field led to me to pursue Flatiron School's Full-Stack Software Engineering program, which I am currently attending.
-In addition to customer support, I also have expertise in social media, marketing, and a history as a sign artist at Trader Joe’s, where I designed visually-appealing and eye-catching artwork to help properly market items.</p>
+<p>I bring over 16 years of customer support experience, coupled with education in Flatiron School's Full-Stack Software Engineering program where I developed proficiency in Python with Flask, SQLAlchemy, RESTful conventions, public/custom APIs, Tailwind CSS, JavaScript, React, Postman, Salesforce, Jira, HTML, and CSS.<br />
+
+Alongside my technical journey, I leverage a dynamic background in artistic endeavors, honed during my tenure as a sign artist at Trader Joe’s, where I crafted visually captivating artwork to enhance product marketing strategies. I also possess expertise in content creation and technical writing, allowing me to effectively communicate complex concepts in a clear and concise manner.</p>
 <h3>📚 Education</h3>
 <p><strong>Northern Kentucky University</strong></p>
 <p>B.F.A. Acting</p>
